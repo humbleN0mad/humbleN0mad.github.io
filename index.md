@@ -7,4 +7,6 @@ permalink: /
 ---
 
 # About
-This is my text
+```Python
+print("Hello")
+```
